@@ -1,7 +1,7 @@
 [project]
-name = "ai-ml-projects"
+name = "brochure_generator"
 version = "0.1.0"
-description = "Add your description here"
+description = "Gnerate brochure for any website using Local LLM"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
